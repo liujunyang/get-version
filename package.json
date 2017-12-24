@@ -1,5 +1,5 @@
 {
-  "name": "get-version-ljy",
+  "name": "get-version-l",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/liujunyang/get-version.git"
   },
-  "author": "",
+  "author": "liujunyang",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/liujunyang/get-version/issues"
